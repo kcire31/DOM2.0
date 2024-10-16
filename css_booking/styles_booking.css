@@ -226,3 +226,37 @@ select:-webkit-autofill:focus {
         margin-top: 65px;
     }
 }
+
+@media screen and (max-width:1030px){
+    .contact{
+        height: auto;
+        padding-bottom: calc(7.5rem + (10 - 7.5) * ((100vw - 20rem)/ (100 - 20)));
+        padding-left: calc(1rem + (8 - 1) * ((100vw - 20rem)/ (100 - 20)));
+        padding-right: calc(1rem + (8 - 1) * ((100vw - 20rem)/ (100 - 20))); 
+    }
+
+    .contact h2{
+        font-size: 40px;
+        line-height: 47px;
+        padding: 60px;
+        text-align: center;
+    }
+
+    .container-img5{
+        height: auto;
+    }
+
+    .img5{
+        position: initial;
+        width: 60%;
+    }
+
+    .titulo-contact{
+        width: auto;
+        padding-top: 20px;
+    }
+
+    .socials h3{
+        margin-top: 65px;
+    }
+}
