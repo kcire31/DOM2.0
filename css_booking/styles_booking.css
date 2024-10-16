@@ -9,6 +9,7 @@
 .contact{
     /* height: 100vh; AAA*/
     /*padding-bottom: calc(7.5rem + (10 - 7.5) * ((100vw - 20rem)/ (100 - 20))); */
+    padding-bottom: 10px;
 
     background-color: #caf2f3;   
 }
