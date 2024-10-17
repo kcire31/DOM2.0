@@ -188,7 +188,7 @@ select:-webkit-autofill:focus {
 @media screen and (max-width:1030px){
     .googleform{
         width: auto;
-        height: 1450px;
+        height: 1500px;
     }
 
     .contact{
